@@ -1,0 +1,10 @@
+.categoria-item {
+    /* Margen superior para separar elementos */
+    margin-top: 20px; /* Puedes ajustar el valor según tus preferencias */
+  }
+
+  .titulo{
+    font-size: 20px;
+    font-weight: bold; 
+    color: #007bff;
+  }
